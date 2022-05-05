@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @DragHem
-- 👀 I’m interested in front-end.
+- 👀 I’m interested in front-end and back-end.
 - Boom 🤯
