@@ -23,9 +23,9 @@
 | NODE | 💹 |
 
 
-Description
-: 💹 Still learing
-: ✅ Done - I know... We are learning whole life... 😅
+Description  
+: 💹 Still learing  
+: ✅ Done - I know... We are learning whole life... 😅  
 
 ## What next ?
 - Get deeper in React  ecosystem like React Router, Styled Components  etc.
