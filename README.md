@@ -1,6 +1,8 @@
 ## Hello, 🖐 my name is  Damian but u can know me as DragHem as well
 
-<center>Guy who loves technology and books</center>
+<p align="center">
+    Guy who loves technology and books
+</p>
 
 ### What I'm doing now?
 - I'm studying at Politechnika Częstochowska 📚
