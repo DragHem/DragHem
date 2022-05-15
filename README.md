@@ -21,6 +21,8 @@
 | TYPESCRIPT | 💹 |
 | NPM | ✅ |
 | NODE | 💹 |
+
+
 Description
 : 💹 Still learing
 : ✅ Done - I know... We are learning whole life... 😅
@@ -28,6 +30,7 @@ Description
 ## What next ?
 - Get deeper in React  ecosystem like React Router, Styled Components  etc.
 - Get knowledge about backend's technologies like Express, NestJS and databases
+- Try out Svelte it's looks awesome 💯
 
 ## Feel free to ask
 <a href="mailto:damianpus@onmail.com?">damianpus@onmail.com</a>
