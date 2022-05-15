@@ -15,16 +15,16 @@
 | HTML | ✅ |  
 | CSS | ✅ |
 | JS ES6+ | ✅ |
-| Tailwind | 💹 |
-| SASS | 💹 |
-| REACT | 💹 |
-| TYPESCRIPT | 💹 |
+| Tailwind | 📖 |
+| SASS | 📖 |
+| REACT | 📖 |
+| TYPESCRIPT | 📖 |
 | NPM | ✅ |
-| NODE | 💹 |
+| NODE | 📖 |
 
 
 Description  
-: 💹 Still learing  
+: 📖 Still learing  
 : ✅ Done - I know... We are learning whole life... 😅  
 
 ## What next ?
