@@ -1,7 +1,7 @@
 ## Hello, 🖐 my name is  Damian but u can know me as DragHem as well
 
 <p align="center">
-    Guy who loves technology and books
+    Guy who loves **technology** and **books**
 </p>
 
 ### What I'm doing now?
@@ -28,3 +28,6 @@ Description
 ## What next ?
 - Get deeper in React  ecosystem like React Router, Styled Components  etc.
 - Get knowledge about backend's technologies like Express, NestJS and databases
+
+## Feel free to ask
+<a href="mailto:damianpus@onmail.com?">damianpus@onmail.com</a>
