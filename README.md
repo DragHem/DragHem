@@ -1,7 +1,7 @@
 ## Hello, 🖐 my name is  Damian but u can know me as DragHem as well
 
 <p align="center">
-    Guy who loves **technology** and **books**
+    Guy who loves <strong>technology</strong> and <strong>books</strong>
 </p>
 
 ### What I'm doing now?
