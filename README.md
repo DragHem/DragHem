@@ -33,4 +33,4 @@ Description
 - Try out Svelte it's looks awesome 💯
 
 ## Feel free to ask
-<a href="mailto:damianpus@onmail.com?">damianpus@onmail.com</a>
+👉 <a href="mailto:damianpus@onmail.com?">damianpus@onmail.com</a>
