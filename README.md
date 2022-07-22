@@ -15,8 +15,8 @@
 | HTML | ✅ |  
 | CSS | ✅ |
 | JS ES6+ | ✅ |
-| Tailwind | 📖 |
-| SASS | 📖 |
+| Tailwind | ✅ |
+| SASS | ✅ |
 | REACT | 📖 |
 | TYPESCRIPT | 📖 |
 | NPM | ✅ |
