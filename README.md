@@ -18,9 +18,10 @@
 | Tailwind | ✅ |
 | SASS | ✅ |
 | REACT | 📖 |
+| NEXTJS| 📖 |
 | TYPESCRIPT | 📖 |
 | NPM | ✅ |
-| NODE & ExpressJS | 📖 |
+| NODE & ExpressJS | ✅ |
 
 
 Description  
