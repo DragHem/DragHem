@@ -5,7 +5,7 @@
 </p>
 
 ### What I'm doing now?
-- I'm studying at Politechnika Częstochowska 📚
+- I'm studying at Politechnika Wrocławska 📚
 - I'm a member of the JavaScript bootcamp 🔒
 - I'm learning o wide range of webtechnologies 🤯
 - I'm looking for IT internship to get my first experiance
