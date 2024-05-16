@@ -9,7 +9,20 @@
 - I'm learning o wide range of webtechnologies 🤯
 - I'm working at <a href="mailto:damianpus@onmail.com?">damianpus@onmail.com</a>  💻
 
-https://skillicons.dev/icons?i=prisma,mysql,postgres,mongodb
+## Core Stack
+![Core](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,nodejs,express,nestjs,redux,prisma,graphql)
+
+## Optional Stack
+![Optional](https://skillicons.dev/icons?i=azure,cs,dotnet,gatsby,vue,nuxtjs,remix,redux)
+
+## Databases
+![Database](https://skillicons.dev/icons?i=prisma,mysql,postgres,mongodb)
+
+## Software
+![Software](https://skillicons.dev/icons?i=postman,figma,git,github,vscode,webstorm,docker)
+
+## Hosting
+![Hosting](https://skillicons.dev/icons?i=netlify,vercel,azure)
 
 ## Feel free to ask
 👉 <a href="mailto:damianpus@onmail.com?">damianpus@onmail.com</a>  
