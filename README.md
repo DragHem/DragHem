@@ -7,7 +7,7 @@
 ### What I'm doing now?
 - I'm studying at Politechnika Wrocławska 📚
 - I'm learning o wide range of webtechnologies 🤯
-- I'm working at <a href="mailto:damianpus@onmail.com?">damianpus@onmail.com</a>  💻
+- I'm working at <a href="https://nublado.pl/">Nublado</a>  💻
 
 ## Core Stack
 ![Core](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,nodejs,express,nestjs,redux,prisma,graphql)
