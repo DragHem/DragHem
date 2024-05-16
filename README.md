@@ -7,32 +7,9 @@
 ### What I'm doing now?
 - I'm studying at Politechnika Wrocławska 📚
 - I'm learning o wide range of webtechnologies 🤯
-- I'm looking for IT internship to get my first experiance
+- I'm working at <a href="mailto:damianpus@onmail.com?">damianpus@onmail.com</a>  💻
 
-| Tech Stack| Description |  
-| ----------- | ----------- |  
-| HTML | ✅ |  
-| CSS | ✅ |
-| JS ES6+ | ✅ |
-| TAILWIND | ✅ |
-| SASS | ✅ |
-| REACT | ✅ |
-| NEXT| 📖 |
-| TYPESCRIPT | 📖 |
-| NPM | ✅ |
-| NODE & EXPRESS | ✅ |
-| PRISMA | 📖 |
-| NESTJS | 📖 |
-
-
-Description  
-: 📖 Still learing  
-: ✅ Done - I know... We are learning whole life... 😅  
-
-## What next ?
-- Get deeper in React  ecosystem like React Router, Styled Components  etc.
-- Get knowledge about backend's technologies like Express, NestJS and databases
-- Try out Svelte it's looks awesome 💯
+https://skillicons.dev/icons?i=prisma,mysql,postgres,mongodb
 
 ## Feel free to ask
 👉 <a href="mailto:damianpus@onmail.com?">damianpus@onmail.com</a>  
