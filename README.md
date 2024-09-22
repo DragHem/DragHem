@@ -5,7 +5,6 @@
 </p>
 
 ### What I'm doing now?
-- I'm studying at Politechnika Wrocławska 📚
 - I'm learning o wide range of webtechnologies 🤯
 - I'm working at <a href="https://nublado.pl/">Nublado</a>  💻
 
